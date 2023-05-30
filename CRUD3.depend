@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1685485201 source:c:\users\lgabr\onedrive\documentos\desenvolvimento desktop\crud3\projeto.c
+	"projeto.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1685485201 c:\users\lgabr\onedrive\documentos\desenvolvimento desktop\crud3\projeto.h
+
+1685485201 source:c:\users\lgabr\onedrive\documentos\desenvolvimento desktop\crud3\main.c
+	"projeto.h"
+	<stdio.h>
+
